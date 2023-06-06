@@ -2,7 +2,7 @@
 
 I'm a Software Developer based in London.
 
-- :seedling: Currently training with [Founders and Coders](https://www.foundersandcoders.com/)
+- :seedling: I'm currently training with [Founders and Coders](https://www.foundersandcoders.com/)
 - :thought_balloon: Have a peek at what I'm learning about [here](https://github.com/isobelbutler/fac-portfolio)
 - :mailbox: Reach me at **isobutler@icloud.com** and on [LinkedIn](https://www.linkedin.com/in/isobelbutler/)
 
