@@ -1,10 +1,21 @@
-### How you doing? I'm Issy 👋
+### Hey! How you doing? :sun_with_face:<br><br>
 
-I'm a Software Developer based in London.
+My name's Issy, I'm a Software Developer with a TV background.<br><br>
 
-- :seedling: I'm currently training with [Founders and Coders](https://www.foundersandcoders.com/)
-- :thought_balloon: Have a peek at what I'm learning about [here](https://github.com/isobelbutler/fac-portfolio)
-- :mailbox: Reach me at **isobutler@icloud.com** and on [LinkedIn](https://www.linkedin.com/in/isobelbutler/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: I'm currently training with [Founders and Coders](https://www.foundersandcoders.com/).<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bulb: You can have a peek at what I'm learning about [here](https://github.com/isobelbutler/fac-portfolio).<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: Feel free to get in touch with me at **isobutler@icloud.com** or on [LinkedIn](https://www.linkedin.com/in/isobelbutler/).<br><br>
+
+#### What are my strengths? :muscle:<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :microscope: Finding <strong>patterns</strong>, creative <strong>problem-solving</strong>, and <strong>logical</strong> thinking.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :clapper: <strong>Design</strong>. I was the Asst. Art Director on MasterChef and worked in the TV Art Department for 5 years.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :smile: <strong>People</strong>. Getting along with a variety of personalities is central to TV. Being able to communicate clearly and have a laugh despite tight deadlines, high pressure, and 16 hour days is one of the learnings I'm most grateful for.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :green_book: <strong>Language.</strong> I studied English Language and Literature at the University of Leeds and love finding patterns and analysing their implications.<br><br>
+
+#### A little more about me.<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :wrench: I love all things hands on: I've worked as a farm labourer, a gardener, and currently I work in a plant shop.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bike: I'm a keen cyclist, this year I want to cycle the C2C, a 227km ride with 3840m of climbing from the Irish Sea to the North Sea.<br><br>
 
 #### Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
