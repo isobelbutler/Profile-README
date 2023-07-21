@@ -1,6 +1,6 @@
 ### Hey, I'm Issy!
 
-I'm a Software Developer with a background in TV Art Direction (most notably I was the Art Director on MasterChef).
+I'm a Software Developer with a background in TV Art Direction (most notably I was the Art Director on MasterChef :fork_and_knife:).
 
 - I'm currently training :muscle: with [Founders and Coders](https://www.foundersandcoders.com/).
 - You can have a peek at what I'm learning :bulb: about [here](https://github.com/isobelbutler/fac-portfolio).
