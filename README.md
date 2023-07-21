@@ -1,6 +1,6 @@
-### Hey! How you doing? :sun_with_face:
+### Hey, I'm Issy!
 
-My name's Issy, I'm a Software Developer with a background in TV Art Direction.
+I'm a Software Developer with a background in TV Art Direction (most notably I was the Art Director on MasterChef).
 
 - I'm currently training :muscle: with [Founders and Coders](https://www.foundersandcoders.com/).
 - You can have a peek at what I'm learning :bulb: about [here](https://github.com/isobelbutler/fac-portfolio).
