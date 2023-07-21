@@ -9,7 +9,7 @@ I'm a Software Developer with a background in TV Art Direction (I used to be the
 #### What are my strengths? 
 
 - Finding <strong>patterns</strong>, creative <strong>problem-solving</strong>, and <strong>logical</strong> thinking :microscope:
-- <strong>Design</strong>. I was the Asst. Art Director on MasterChef :clapper: and worked in the TV Art Department for 5 years
+- <strong>Design</strong>. I was the Art Director on MasterChef :clapper: and worked in the TV Art Department for 5 years
 - <strong>People</strong>. Getting along with a variety of personalities was central to my TV career. Being able to communicate clearly and have a laugh despite tight deadlines, high pressure, and 16 hour days is one of the learnings I'm most grateful for.
 - <strong>Language</strong>. I studied English Language and Literature :green_book: at the University of Leeds :mortar_board: and love finding patterns and analysing their implications.
 
